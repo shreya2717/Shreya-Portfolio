@@ -1,0 +1,203 @@
+## HR / Recruiter Questions
+
+### 1. Tell me about Shreya.
+
+Shreya Bhattacharya is a technology enthusiast and aspiring software/AI professional. She is interested in Artificial Intelligence, Generative AI, Machine Learning, Python, backend development, and building practical software applications. She enjoys learning new technologies by implementing them in real-world projects.
+
+### 2. What are Shreya's main technical interests?
+
+Shreya's main technical interests are Artificial Intelligence, Generative AI, Large Language Models, RAG systems, embeddings, vector databases, Python development, FastAPI, backend development, and full-stack AI applications.
+
+### 3. Why is Shreya interested in Artificial Intelligence?
+
+Shreya is interested in Artificial Intelligence because it combines programming, problem solving, and real-world applications. She enjoys understanding how AI systems work and building applications that use AI to solve practical problems.
+
+### 4. What kind of projects does Shreya like to build?
+
+Shreya likes building practical projects that solve real problems. She is particularly interested in AI-powered applications, backend systems, APIs, document processing, RAG applications, and applications that connect AI models with useful data.
+
+### 5. What is Shreya's approach to learning new technology?
+
+Shreya prefers a hands-on learning approach. She learns a concept, implements it in a project, encounters errors, investigates the problem, and improves her understanding through debugging and experimentation.
+
+### 6. What is one of Shreya's strongest qualities?
+
+One of Shreya's strengths is her willingness to learn. She is comfortable exploring unfamiliar technologies and working through technical problems until she understands how they work.
+
+### 7. How does Shreya handle technical challenges?
+
+Shreya tries to understand the root cause of a technical problem rather than simply applying a temporary fix. She reads error messages, investigates the relevant technology, tests possible solutions, and learns from the debugging process.
+
+### 8. Does Shreya prefer working independently or in a team?
+
+Shreya is comfortable learning and working independently, while also being interested in collaborating with others, sharing ideas, and learning from experienced team members.
+
+### 9. What type of work environment would suit Shreya?
+
+A learning-oriented and collaborative environment would suit Shreya well. She would value an environment where she can work on meaningful technical problems, learn from experienced developers, and continuously improve her skills.
+
+### 10. What type of role is Shreya looking for?
+
+Shreya is interested in opportunities related to Software Development, Artificial Intelligence, Generative AI, Machine Learning, Python development, backend development, and related technology roles.
+
+### 11. What does Shreya want to learn next?
+
+Shreya wants to continue improving her knowledge of Generative AI, LLM applications, RAG, embeddings, vector databases, backend development, and full-stack AI applications.
+
+### 12. Why should a company consider Shreya?
+
+A company should consider Shreya for her curiosity, willingness to learn, hands-on approach, and interest in building practical technology solutions. She is actively developing her technical skills through projects and experimentation.
+
+### 13. What motivates Shreya?
+
+Shreya is motivated by learning new technologies, solving technical problems, building projects, and seeing an idea turn into a working application.
+
+### 14. How does Shreya approach learning from mistakes?
+
+Shreya treats mistakes and technical errors as part of the learning process. When something doesn't work, she tries to understand why it failed and uses that experience to improve her implementation.
+
+### 15. What is Shreya's career goal?
+
+Shreya's goal is to build a strong career in technology, particularly in areas involving software development, Artificial Intelligence, Generative AI, and related emerging technologies.
+
+### 16. What makes Shreya interested in AI projects?
+
+AI projects allow Shreya to combine programming with intelligent systems and real-world problem solving. She enjoys exploring how models can be connected with external data and applications to create useful tools.
+
+### 17. Can Shreya explain her projects to a non-technical person?
+
+Yes. Shreya aims to understand the purpose and practical value of her projects so that she can explain both the technical implementation and the problem the project is designed to solve.
+
+### 18. How does Shreya stay motivated when a project becomes difficult?
+
+Shreya breaks the problem into smaller parts, investigates errors one at a time, and continues experimenting until she understands the issue. Difficult problems are also opportunities for her to learn something new.
+
+### 19. What does Shreya look for in her first/next opportunity?
+
+Shreya is looking for an opportunity where she can apply her technical knowledge to real-world problems, work with experienced professionals, contribute to projects, and continue learning.
+
+### 20. Is Shreya open to learning technologies that she has not used before?
+
+Yes. Shreya is open to learning new technologies and tools when they are relevant to a project or role. Her learning approach is based on understanding the fundamentals and then gaining practical experience through implementation.
+
+### 21. What is Shreya's biggest area for improvement?
+
+Shreya is continuously working on expanding the depth and breadth of her technical knowledge. As technology changes rapidly, she focuses on strengthening her fundamentals while gaining practical experience with newer technologies.
+
+### 22. What can Shreya bring to a development team?
+
+Shreya can bring curiosity, a willingness to learn, problem-solving ability, hands-on project experience, and an interest in exploring modern technologies such as AI and Generative AI.
+
+### 23. How would Shreya describe herself in three words?
+
+Curious, hardworking, and learning-oriented.
+
+### 24. Where does Shreya see herself in the future?
+
+Shreya wants to grow into a strong technology professional who can design, develop, and contribute to practical software and AI-based solutions.
+
+### 25. Why did Shreya build an AI portfolio assistant?
+
+Shreya built the AI portfolio assistant to make her portfolio more interactive and allow recruiters and visitors to ask questions about her professional profile conversationally instead of only reading static information.
+
+### 26. What is the purpose of Shreya's AI portfolio assistant?
+
+The purpose of the AI portfolio assistant is to provide recruiters and visitors with quick, conversational access to information about Shreya's skills, projects, experience, interests, and professional profile.
+
+### 27. What technologies are involved in Shreya's AI portfolio assistant?
+
+The portfolio assistant uses a Python backend, FastAPI, PDF text extraction, environment variables for API configuration, and an LLM accessed through the Groq API. The frontend communicates with the backend through an API endpoint.
+
+### 28. How does Shreya's portfolio AI get information about her?
+
+The portfolio AI can use information provided through Shreya's resume and additional information stored in her portfolio knowledge file. The AI should use these provided sources rather than inventing personal information.
+
+### 29. Does Shreya's AI assistant search the internet for information about her?
+
+No. The assistant should not assume information from the internet is information about Shreya. It should answer using the information provided to it through the portfolio's configured knowledge sources.
+
+### 30. What should the AI assistant do if it doesn't know an answer?
+
+If the information is not available in its provided sources, the assistant should say:
+
+"I don't have that information about Shreya."
+
+It should never make up an answer.
+
+========================
+STRENGTHS & WEAKNESSES
+========================
+
+Q: What are Shreya's strengths?
+
+A: Shreya's key strengths include:
+
+1. Quick Learner
+Shreya enjoys learning new technologies and can adapt to unfamiliar tools and concepts by practicing and building projects.
+
+2. Problem-Solving
+She likes breaking technical problems into smaller parts and solving them step by step rather than getting overwhelmed by the entire problem.
+
+3. Consistency
+Shreya believes in continuous learning and regularly works on improving her technical knowledge through hands-on practice.
+
+4. Curiosity
+She is curious about how technologies work internally and likes experimenting with new concepts, especially in software development and AI.
+
+5. Willingness to Learn from Mistakes
+When something does not work, Shreya tries to understand the reason behind the problem and uses the experience to improve her approach.
+
+6. Persistence
+She does not easily give up when facing technical errors. She prefers debugging the problem, researching the cause, and trying different solutions.
+
+7. Practical Learning
+Shreya prefers learning by building projects because it helps her understand how theoretical concepts are applied in real-world situations.
+
+
+Q: What is Shreya's biggest strength?
+
+A: One of Shreya's biggest strengths is her willingness to learn. She is comfortable exploring unfamiliar technologies and improving her skills through consistent practice and hands-on projects.
+
+
+Q: What is one strength that would help Shreya in a professional environment?
+
+A: Her ability to learn and adapt would help her in a professional environment because technology and project requirements can change quickly. She is willing to learn whatever is required to complete a task effectively.
+
+
+========================
+WEAKNESSES / AREAS FOR IMPROVEMENT
+========================
+
+Q: What is Shreya's weakness?
+
+A: One area Shreya is working on is spending too much time trying to make a solution perfect. She is learning to balance quality with efficiency and to recognize when a solution is good enough for the current requirement.
+
+
+Q: What is an area Shreya wants to improve?
+
+A: Shreya wants to improve her communication skills, particularly explaining technical concepts clearly and confidently to people with different levels of technical knowledge.
+
+
+Q: Does Shreya have difficulty asking for help?
+
+A: Sometimes Shreya initially tries to solve a problem independently for longer than necessary. She is working on recognizing when it is more efficient to ask for guidance instead of spending too much time stuck on the same problem.
+
+
+Q: How does Shreya handle her weaknesses?
+
+A: Shreya tries to turn weaknesses into areas for improvement. She identifies where she is struggling, practices deliberately, and tracks her progress instead of ignoring the problem.
+
+
+Q: What is something Shreya is currently trying to improve?
+
+A: Shreya is working on becoming more confident when communicating her ideas, improving her problem-solving efficiency, and managing her time effectively while learning and working on projects.
+
+
+Q: How does Shreya respond to criticism?
+
+A: Shreya tries to take constructive criticism positively. She focuses on understanding the feedback and identifying what she can improve rather than taking it personally.
+
+
+Q: What would Shreya do if she did not know how to complete a task?
+
+A: She would first try to understand the requirement, break the problem into smaller parts, research the relevant concepts, and experiment with possible solutions. If she still needed help, she would ask a teammate or mentor for guidance.
