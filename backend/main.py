@@ -29,8 +29,8 @@ for page in reader.pages:
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
+    allow_origins=["https://shreya2717.github.io"],
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
