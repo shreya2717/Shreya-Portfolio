@@ -36,6 +36,8 @@ jobs:
 
       - name: Build frontend
         working-directory: frontend
+        env:
+          VITE_CHAT_API_URL: https://shreya-portfolio-iap7.onrender.com
         run: npm run build
 
       - name: Setup Pages
