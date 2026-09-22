@@ -12,10 +12,10 @@
  */
 
 export const CHAT_API_BASE_URL =
-  "https://shreya-ai-chat.onrender.com";
+  "https://shreya-portfolio-jap7.onrender.com";
 
-export const CHAT_ENDPOINT =
-  `${CHAT_API_BASE_URL}/chat`;
+export const CHAT_ENDPOINT = `${CHAT_API_BASE_URL}/chat`;
+
 
 export type ChatRequest = {
   message: string;
