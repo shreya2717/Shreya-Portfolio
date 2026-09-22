@@ -11,9 +11,11 @@
  *   { "response": "Shreya Bhattacharya is..." }
  */
 
-export const CHAT_API_BASE_URL = "http://127.0.0.1:8000";
+export const CHAT_API_BASE_URL =
+  "https://shreya-ai-chat.onrender.com";
 
-export const CHAT_ENDPOINT = `${CHAT_API_BASE_URL}/chat`;
+export const CHAT_ENDPOINT =
+  `${CHAT_API_BASE_URL}/chat`;
 
 export type ChatRequest = {
   message: string;

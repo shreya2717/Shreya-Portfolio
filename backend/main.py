@@ -73,15 +73,14 @@ for resume_file in resume_files:
 # ============================================================
 # CORS
 # ============================================================
-
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://shreya2717.github.io",
-        "http://localhost:5173",
-        "http://127.0.0.1:5173",
         "http://localhost:8081",
+        "http://localhost:5173",
         "http://127.0.0.1:8081",
+        "http://127.0.0.1:5173",
     ],
     allow_credentials=False,
     allow_methods=["*"],
