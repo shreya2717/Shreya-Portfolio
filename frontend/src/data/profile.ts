@@ -44,26 +44,26 @@ export const PROFILE = {
 
   projects: [
     {
-      version: "Feb 2026",
+      version: "June 2026",
       status: "completed",
-      name: "Real-Time Analytics Dashboard",
+      name: "Rubik's Cube Solver",
       description:
-        "Developed a real-time dashboard using React and Node.js for live data visualization. Implemented WebSocket-based communication for concurrent data updates and reduced API response latency by 40% through backend optimization.",
-      stack: ["React", "Node.js", "WebSocket"],
+        "Developed an algorithm-based Rubik's Cube solver that analyzes cube configurations and computes a sequence of moves to reach the solved state. Implemented cube-state representation and search-based solving techniques to efficiently explore possible moves.",
+      stack: ["C++", "Data Structures", "Algorithms"],
       links: [
-        { label: "Code", href: "#" },
+        { label: "Code", href: "https://github.com/shreya2717/Rubic-s-Cube-Solver.git" },
       ],
     },
 
     {
-      version: "Aug 2024",
+      version: "Aug 2026",
       status: "completed",
-      name: "Gas Level Monitoring System",
+      name: "High-Performance Network Packet Analyzer",
       description:
-        "Designed a real-time IoT-based monitoring solution using Raspberry Pi and MQ-02 gas sensor for continuous environmental surveillance. Integrated live data streaming and automated alerts using buzzer and LED indicators.",
-      stack: ["Raspberry Pi", "MQ-02", "IoT"],
+        "Designed a real-time IoT-based monitoring solution using Raspberry Pi and MQ-02 gas sensor for continuous environmental surveillance. Integrated live data streaming and automated alerts using buzzer and LED indicatorsDeveloped a multi-threaded network packet analyzer for capturing and analyzing network traffic. Implemented DNS and SNI extraction, application-level traffic classification, and a producer-consumer architecture with thread-safe queues to improve packet processing scalability.",
+      stack: ["C++", "Networking", "Multi-threading"],
       links: [
-        { label: "Code", href: "#" },
+        { label: "Code", href: "https://github.com/shreya2717/Packet-Analyzer.git" },
       ],
     },
 
@@ -97,11 +97,11 @@ export const PROFILE = {
 
   achievements: [
     "Technical Lead, VITRONIX Club, VIT Bhopal — Aug 2024 to Aug 2025",
-    "Led a 25-member technical team through workshops and hands-on coding sessions",
     "Volunteer, National Symposium — ANRF, Feb 2025",
   ],
 
   certifications: [
+    "Microsoft Excel Beginners to Advance– Skill Course",
     "VLSI Design Certification — Maven Silicon",
     "MATLAB Onramp & Simulink Onramp — MathWorks",
     "Computer Vision Certification — Vityarthi",
