@@ -79,12 +79,11 @@
 :root {
   --radius: 0.75rem;
 
-  --background: oklch(0.968 0.007 247.896);
-  --surface: oklch(0.984 0.003 247.858);
+  --background: oklch(13.846% 0.02775 240.375);
+  --surface: oklch(98.61% 0.00353 220.962);
   --card: oklch(1 0 0);
   --foreground: oklch(0.372 0.044 257.287);
   --heading: oklch(0.279 0.041 260.031);
-  --muted: oklch(0.968 0.007 247.896);
   --muted-foreground: oklch(0.554 0.046 257.417);
   --faint: oklch(0.704 0.04 256.788);
   --border: oklch(0.929 0.013 255.508);

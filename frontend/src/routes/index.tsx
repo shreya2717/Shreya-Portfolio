@@ -15,7 +15,7 @@ export const Route = createFileRoute("/")({
       {
         property: "og:description",
         content:
-          "An interactive résumé: ask about Shreya's skills, projects, education and achievements, or download her resume.",
+        "An interactive resume: ask about Shreya's skills, projects, education and achievements, or download her resume.",
       },
       { property: "og:type", content: "profile" },
       { name: "twitter:card", content: "summary_large_image" },
@@ -78,7 +78,14 @@ function Home() {
             </p>
             <p className="mt-6 max-w-[46ch] text-base leading-relaxed text-muted-foreground sm:text-lg">
               {PROFILE.intro}
-            </p>
+              </p>
+            <div className="mt-6 flex justify-center lg:justify-start">
+              <img
+              src={`${import.meta.env.BASE_URL}78.png`}
+              alt="Shreya working on AI and software projects"
+              className="w-full max-w-md rounded-2xl object-contain"
+              />
+              </div>
             <div className="mt-8 flex flex-wrap items-center gap-3">
               <a
                 href="#chat"
