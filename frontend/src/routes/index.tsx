@@ -65,7 +65,7 @@ function Home() {
               "radial-gradient(60% 55% at 20% 0%, color-mix(in oklab, var(--primary) 18%, transparent), transparent 70%)",
           }}
         />
-        <div className="relative mx-auto grid max-w-6xl gap-10 px-6 py-14 lg:grid-cols-[1fr_1.05fr] lg:items-stretch lg:gap-8 lg:py-20">
+        <div className="relative mx-auto grid max-w-6xl gap-10 px-6 py-14 lg:grid-cols-[1fr_1.05fr] lg:items-start lg:gap-8 lg:py-20">
           <div className="flex flex-col justify-center">
             <div className="mb-5 inline-flex w-fit items-center gap-2 rounded-full border border-primary-border bg-primary-soft px-3 py-1 font-mono text-[11px] uppercase tracking-[0.15em] text-primary-ink">
               <span className="size-1.5 rounded-full bg-success" /> {PROFILE.badge}
