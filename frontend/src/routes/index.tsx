@@ -76,9 +76,6 @@ function Home() {
             <p className="mt-3 font-mono text-sm font-medium uppercase tracking-[0.2em] text-primary">
               {PROFILE.title}
             </p>
-            <p className="mt-6 max-w-[46ch] text-base leading-relaxed text-muted-foreground sm:text-lg">
-              {PROFILE.intro}
-              </p>
             <div className="mt-6 flex justify-center lg:justify-start">
               <img
               src={`${import.meta.env.BASE_URL}78.png`}
