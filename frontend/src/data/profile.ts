@@ -6,7 +6,7 @@ export const PROFILE = {
   badge: "B.Tech Electronics & Communication Engineering · 2026",
 
   intro:
-    "I am an Electronics and Communication Engineering graduate interested in the intersection of Artificial Intelligence and Software Engineering. I enjoy solving complex problems and building practical applications that combine software, intelligent technologies, and real-world systems. My technical interests include C++, software development, AI and LLM applications, embedded systems, and IoT. I am continuously learning and exploring new technologies to build scalable and meaningful solutions.",
+    "Aspiring AI & Software Engineer with a foundation in C++, DSA, and software development. Experienced in IoT-based projects and exploring AI, LLM integration, and intelligent application development. Passionate about building scalable solutions to real-world problems.",
 
   about:
     "Electronics and Communication Engineering graduate with a strong foundation in software development, real-time systems, IoT, and problem solving. I enjoy building practical projects that combine software, hardware, and real-world applications.",
