@@ -1,12 +1,12 @@
 export const PROFILE = {
   name: "Shreya Bhattacharya",
 
-  title: "Software Developer",
+  title: "Aspiring AI & Software Engineer",
 
   badge: "B.Tech Electronics & Communication Engineering · 2026",
 
   intro:
-    "Fresher Software Developer skilled in C++, Data Structures & Algorithms, and backend development. Experienced in real-time systems and IoT-based projects, with a strong problem-solving mindset and eagerness to learn.",
+    "I am an Electronics and Communication Engineering graduate interested in the intersection of Artificial Intelligence and Software Engineering. I enjoy solving complex problems and building practical applications that combine software, intelligent technologies, and real-world systems. My technical interests include C++, software development, AI and LLM applications, embedded systems, and IoT. I am continuously learning and exploring new technologies to build scalable and meaningful solutions.",
 
   about:
     "Electronics and Communication Engineering graduate with a strong foundation in software development, real-time systems, IoT, and problem solving. I enjoy building practical projects that combine software, hardware, and real-world applications.",
@@ -23,21 +23,47 @@ export const PROFILE = {
 
   skills: [
     {
-      group: "Languages",
-      items: ["C/C++", "Python (Basic)", "MATLAB"],
+      group: "Programming Languages",
+      items: ["C++", "Python (Basic)", "JavaScript", "MATLAB"],
     },
     {
-      group: "Tools",
-      items: ["Git", "GitHub", "VS Code", "Raspberry Pi", "Arduino"],
-    },
-    {
-      group: "Core Concepts",
+      group: "AI & LLM Applications",
       items: [
-        "SQL",
+        "LLM API Integration",
+        "Prompt Engineering",
+        "Conversational AI",
+        "AI Application Development",
+      ],
+    },
+    {
+      group: "Software Development",
+      items: [
+        "React",
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "Git",
+        "GitHub",
+      ],
+    },
+  
+    {
+      group: "Core Computer Science",
+      items: [
         "Data Structures & Algorithms",
         "OOP",
         "DBMS",
-        "Excel",
+        "SQL",
+    ],
+    },
+  
+    {
+      group: "Embedded Systems & IoT",
+      items: [
+        "Raspberry Pi",
+        "Arduino",
+        "MQTT",
+        "Sensor Interfacing",
       ],
     },
   ],
